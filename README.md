@@ -9,6 +9,7 @@ Get the last version of https://github.com/nodrew/php-airbrake/ and put it in th
 Put your API in the config/airbrake.php and then:
 
 ```php
+<?php
 
 $this->load->library('AirbrakeCI');
 
