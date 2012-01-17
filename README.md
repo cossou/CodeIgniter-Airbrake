@@ -5,7 +5,7 @@ Just a small library for Airbrake based on [PHP Airbrake](https://raw.github.com
 
 #Usage
 
-Get the last version of https://github.com/nodrew/php-airbrake/ and put it in the third_party folder.
+Get the last version of https://github.com/nodrew/php-airbrake/ and put it in the third_party folder.  
 Put your API in the config/airbrake.php and then:
 
 ```php
