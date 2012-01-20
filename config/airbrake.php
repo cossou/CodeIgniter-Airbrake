@@ -24,7 +24,7 @@
 */ 
 
 $config['airbrake_api_key'] = 'your api key';
-$config['airbrake_options'] = array();
+$config['airbrake_options'] = array('environmentName' => ENVIRONMENT);
 
 /* End of file airbrake.php */
 /* Location: ./application/config/airbrake.php */
